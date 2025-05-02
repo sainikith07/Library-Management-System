@@ -2,7 +2,7 @@
 
 This is a simple **Library Management System** built in **C** to help manage books in a library. It allows users to **add, search, update, delete, and display books** using file handling techniques.
 
-## 🚀 Features
+## 🚀 Features 
 
 - 📖 **Add New Books**  
 - 🔍 **Search for a Book by ID or Title**  
