@@ -8,7 +8,7 @@ This is a simple **Library Management System** built in **C** to help manage boo
 - 🔍 **Search for a Book by ID or Title**  
 - ✏️ **Update Book Details**   
 - 🗑️ **Delete Books**   
-- 📜 **View All Books**  
+- 📜 **View All Books**   
  
   
 🎮 Usage
